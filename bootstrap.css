@@ -9,6 +9,9 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+.tan{
+  width: 50% !important;
+}
 
 .sombra{
 	-webkit-box-shadow: -4px 9px 48px 0px rgba(0,0,0,0.75);
